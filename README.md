@@ -38,6 +38,270 @@
 
 ---
 
+### <a name="faqs">FAQs Frequently Asked Questions</a>
+
+---
+
+**Q: How do I setup the bot?**<br>
+**A: [#‼️ instructions ‼️](https://discord.com/channels/1122399232414990438/1296259339220287529) has the exact steps outlined in 7 languages and links to the appropriate places**
+
+> [!NOTE]
+> Please don't open a ticket to ask how to set it up unless you're experiencing issues
+
+> [!CAUTION]
+> Opening a ticket and not saying anything will get you a week long timeout.
+
+> [!WARNING]
+> Pinging staff in tickets will be met with anger, we are already in the ticket, we will respond when we can.
+---
+
+**Q: Is there a trader?**<br>
+**A: There is a bug with this feature causing a failure, it is being fixed but it is a very complexly coded feature so it is taking some time to solve the issue, in the meantime we have alternative solutions that admins can do:**
+
+> [!NOTE]
+> `/admin spawner add selection: xcoord: ycoord: zcoord: item: lifetime: eventname: nominal: maxamount: minamount: restock:` <sub>is to build an event via discord directly into your files</sub>
+> `/admin spawer remove eventname:EXACT EVENT NAME` <sub>to remove it from your files</sub>
+
+> [!NOTE]
+> `/webinterface upload file: folder:` <sub>to upload a custom made json file to your server<sub>
+>
+> `/gameplay edit choice: option: filename:` <sub>to add the new json file to the ObjectSpawnerArr in cfggameplay.json<sub>
+---
+
+**Q: What features does Legion Killfeed have?**<br>
+**A: There is not a full compiled list of features as of yet, but majority of them are listed in [#features](https://discord.com/channels/1122399232414990438/1130522659017465966)**
+
+- We have most features all competitors have
+- We have over 150 discord commands
+
+> [!NOTE]
+> Our dashboard is under development currently
+---
+
+**Q: Is there a scheduler?**<br>
+**A: There is going to be one which will help resolve the issue with the trader**
+> [!CAUTION]
+> Currently any scheduler commands that show in discord will not work until it is complete.
+---
+
+**Q: I feel like the killfeed is being slow?**<br>
+**A: The killfeed is only ever delayed by Nitrado being slow to update logs, we check for new logs every 4-7mins, which is shown in [#killfeed-loop](https://discord.com/channels/1122399232414990438/1122435730271113258) (channel only visible to subscribers and their staff)**
+
+> [!NOTE]
+> If it's been more than 15mins since a message has been posted in that channel, bring it to our attention and the delays will immediately be investigated if a developer is online.
+---
+
+**Q: Why is Soul an asshole/rude/a dick?**<br>
+**A: There are many reasons you could `think` Soul is being an asshole, he is not intending to sound like a dick or come across rudely (most of the time).**
+
+- He's Australian, it's how most Australians talk
+- He's just direct and raw/unfiltered
+
+> [!NOTE]
+> If he's debugging an issue while responding to you he's also checking:
+>
+> - the bot log file
+> - the command usage
+> - the database and
+> - the code
+> - all at once, because of this often his speed of response is seen as rude
+
+> [!WARNING]
+> He swears, he's an adult, get over it, he's not calling anyone names, he's using swear words to express frustration or annoyance
+
+> [!CAUTION]
+> He has ADHD, most people with ADHD have issues communicating properly and often have trouble:
+>
+> - understanding what others say
+> - remembering details
+> - understanding social nuances
+> - organizing thoughts
+> - staying on task during conversations
+>
+---
+
+**Q: My server ran out of time, how do I turn the killfeed back on for it?**<br>
+**A: Currently, you need to do `/setup token` then `/setup activate` to turn it back on**
+
+> [!NOTE]
+> The `/setup new` command will not add it back anymore as it was abused to bypass paying for the subscription.
+---
+
+**Q: Why is one of my members blacklisted from the bot?**<br>
+**A: There could be a number of reasons, most people blacklisted have either;**
+
+- Made threats towards staff here
+- Made threats towards staff members family members
+- Been caught using cheating devices to boost their stats (like a cronus)
+- Used the killfeed then at the end of their subscriptions requested a refund via PayPal
+- Violated our [ToS](https://killfeed.co/legal#terms-of-service).
+
+> [!WARNING]
+> These people will never be given access to our services again, it's their own fault and no compromises will be made.
+---
+
+**Q: Why is it telling me to subscribe if I already have?**<br>
+**A: There are multiple reasons you could be getting this message, check all of the below before opening a ticket.**
+
+- Is your discord account linked to your ko-fi account?
+  - If not link it [here](https://ko-fi.com/Discord/Settings)
+- Were you a member of the discord at the time of subscribing or before trying to use token?
+  - If you weren't, open a ticket [here](https://discord.com/channels/1122399232414990438/1138583694517489764) and ask a developer to check your activation
+
+> [!NOTE]
+> If everything is active but you're still getting the error, like for example, from a command, it could be you're not in the assigned channel for those commands, the subscribe message is a fallback response on some commands, we are updating these to be accurate to the error.
+---
+
+<!--#Tickets -->
+
+**Q: How do I setup the ticket system?**<br>
+**A: The ticket system auto-deletes if not fully setup correctly, Once you've done:**
+
+- `/tickets setup panel` & `/tickets setup welcome` & `/ticket setup style` you do `/tickets setup finish`
+>
+> - the bot will create a:
+>   - category
+>   - ticket channel
+>   - archive channel
+
+> [!NOTE]
+>
+> - Ticket Panel is the message that you use to open tickets
+> - The first message in the ticket is the Welcome Panel
+
+![ticket-system.png](https://i.postimg.cc/tCvbTtQY/ticket-system.png)
+
+> [!NOTE]
+> When they open they are just private threads
+> The ticket role is pinged which adds the staff to the private thread
+> Only admins and owner can add people to a ticket but to do so you just ping someone and they're added
+
+> [!WARNING]
+> Pinging a role will add all members with the role to the ticket
+
+---
+
+**Q: What is a killfeed in DayZ?**<br>
+**A:** Killfeed is a feature that tracks and displays player kills, deaths, and other significant in-game events in semi-real-time. Killfeeds are commonly used on DayZ servers to provide players with information about combat-related activities.
+
+---
+
+**Q: Why should I use a killfeed for my DayZ server?**<br>
+**A:** Using a killfeed like [Legion Killfeed](https://killfeed.co) has many benefits like:
+
+> - Enhances the player experience
+> - Improvese server management
+> - It helps administrators monitor in-game activities
+> - Allows players to keep track of their performance
+
+---
+
+**Q: How does Legion Killfeed differ from other killfeeds?**<br>
+**A:** Legion Killfeed, available at [Killfeed.co](https://killfeed.co), is the most advanced and reliable killfeed for DayZ servers. Some of it's key features include:
+
+- Near real-time updates
+- Customizable embed styling
+- Unique and genius features
+- Seamless integration with Discord
+- Built in ticket system
+- Expert support
+- Heaps more
+
+Making it the top choice for both PS4/PS5 and Xbox DayZ communities as can be seen by legitimate [Trustpilot Reviews](https://www.trustpilot.com/review/killfeed.co).
+
+---
+
+**Q: Can I customize the events tracked by Legion Killfeed?**<br>
+**A:** Yes, [Legion Killfeed](https://killfeed.co) is highly customizable. You can configure which events are tracked, such as:
+
+- kills
+- deaths
+- teleports
+- unconscious/conscious
+- connection
+- and heaps more feeds
+
+Additionally, you can tailor the killfeed embeds with your server logo and your embed colour.
+
+---
+
+**Q: How do I set up Legion Killfeed on my DayZ server?**<br>
+**A:** Setting up [Legion Killfeed](https://killfeed.co) is advancedly programmed to be extremely straightforward as long as the steps are followed. After subscribing to the service and linking your discord account to your [Ko-Fi account](https://ko-fi.com/Discord/Settings), Ko-Fi's discord bot will add a role to you in [Legion's discord](https://discord.gg/LegionKillfeed) which will be detected by **Legion** who will activate the `/setup token` commands for your account and you'll receive a DM with a detailed setup guide. The setup process is straight forward, it's just two commands and the bot does most of the work.
+
+> [!WARNING]
+> You need to ensure you absolutely, 100% link your [discord account to your Ko-Fi account](https://ko-fi.com/Discord/Settings), this step is frequently missed.
+> <sub>If you need help, open a ticket!</sub>
+
+---
+
+**Q: Does Legion delete anything?**<br>
+**A:** Absolutely not! [Legion Killfeed](https://killfeed.co) is designed only to create channels, the only messages it ever deletes are it's own and that's just to reduce spam. Legion is unable to access messages as it doesn't have [message intents](https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Privileged-Intent-FAQ) enabled, without those intents our bot only see's members which is required for linking, assigning admin, adding roles, etc.
+
+---
+
+**Q: Can I use Legion Killfeed with other DayZ bots and tools?**<br>
+**A:** Yes, [Legion Killfeed](https://killfeed.co) cannot affect another bot in any way.
+
+---
+
+**Q: Does Legion Killfeed affect server performance?**<br>
+**A:** No, [Legion Killfeed](https://killfeed.co) spends less than 5 seconds connected to your server when downloading logs, everything is handled by the bot once the logs are retrieved, except Nitrado server management commands (they of course have to connect to the server).
+
+---
+
+**Q: How often does Legion Killfeed update its features?**<br>
+**A:** [Legion Killfeed](https://killfeed.co) is continuously updated with new features and improvements. The development team regularly releases updates based on community feedback to ensure that the killfeed remains the best option for DayZ servers, Soul works day and night updating the code & website.
+
+---
+
+**Q: How do I contact support for Legion Killfeed?**<br>
+**A:** If you need assistance with [Legion Killfeed](https://killfeed.co), you can reach out to the support team via the [Discord server](https://discord.gg/LegionKillfeed). The support team is responsive and ready to help with any questions or issues you may have.
+
+---
+
+**Q: Can I try Legion Killfeed before subscribing?**<br>
+**A:** <sub>`It's only $7USD/month for up to 10 servers per Nitrado account`</sub>
+
+Currently, [Legion Killfeed](https://killfeed.co) offers subscription-based services. However, the affordable pricing and top-rated features make it a worthwhile investment for any DayZ server owner looking to enhance their server with the most reliable and useful killfeed, for the low price of a coffee.
+
+---
+
+**Q: What are the benefits of using Legion Killfeed over free alternatives?**<br>
+**A:** Free killfeeds may offer basic functionality, but the free killfeeds have a higher risk (and history) of selling your data to third parties.
+
+Where-as [Legion Killfeed](https://killfeed.co) provides a comprehensive set of features including:
+
+- semi-real-time updates
+- high customization
+- transparent and honest support
+
+combined with:
+
+- its reliability
+- expert nitrado integration
+- affordability
+- global server tracking
+- and heaps more
+
+When it comes down to it, Legion is the preferred choice for serious DayZ server communities.
+
+---
+
+**Q: How does Legion Killfeed handle data privacy?**<br>
+**A:** [Legion Killfeed](https://killfeed.co) prioritizes data privacy and security. Legion does not store personal data beyond what is necessary for the service to function. Additionally, all data transmission is secured with industry-standard encryption, learn more by reading our [Privacy Policy](https://killfeed.co/legal#privacy-policy).
+
+---
+
+**Q: Can I use Legion Killfeed on multiple servers with a single subscription?**<br>
+**A:** Yes, [Legion Killfeed](https://killfeed.co) offers up to 10 servers per Nitrado account (Slot size does not matter), no constricting subscription plans, we always allow you to use the killfeed on multiple servers.
+
+---
+
+**Q: Is there a community around Legion Killfeed?**<br>
+**A:** Yes, [Legion Killfeed](https://killfeed.co) has an active community of DayZ server owners and dedication Global Leaderboard chasing players. You can join the community through the [Discord server](https://discord.gg/LegionKillfeed), where you can share tips, request features, find servers and get help from other users.
+
+---
+
 <details>
 <summary>
 📌 English
