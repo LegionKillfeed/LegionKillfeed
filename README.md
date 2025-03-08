@@ -43,7 +43,7 @@
 ---
 
 **Q: How do I setup the bot?**<br>
-**A: [#‼️ instructions ‼️](https://discord.com/channels/1122399232414990438/1296259339220287529) has the exact steps outlined in 7 languages and links to the appropriate places**
+**A: [#‼️ instructions ‼️](https://discord.com/channels/1122399232414990438/1296259339220287529) has the exact steps outlined in 7 languages and links to the appropriate places as does [The Wiki](https://github.com/LegionKillfeed/LegionKillfeed/wiki/English#how-to-set-up-the-bot) and the bot also sends the instruction via a channel it creates when you add the bot to your discord**
 
 > [!NOTE]
 > Please don't open a ticket to ask how to set it up unless you're experiencing issues
