@@ -7,7 +7,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://killfeed.co/a/i/LK.gif" alt="Legion Killfeed Logo"></td>
+    <td><img src="https://killfeed.co/images/favicons/favicon.gif" alt="Legion Killfeed Logo"></td>
     <td rowspan="6"><a href="https://www.trustpilot.com/review/killfeed.co"><img src="https://i.ibb.co/VYG3WVvg/Legion-Best.png" alt="Legion Killfeed is rated the best"></a></td>
   </tr>
   <tr>
