@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><img src="https://killfeed.co/images/favicons/favicon.gif" alt="Legion Killfeed Logo"></td>
-    <td rowspan="6"><a href="https://www.trustpilot.com/review/killfeed.co">Legion Killfeed is rated the best<img src="https://i.ibb.co/VYG3WVvg/Legion-Best.png" alt="Legion Killfeed is rated the best"></a></td>
+    <td rowspan="6"><a href="https://www.trustpilot.com/review/killfeed.co"><img src="https://i.ibb.co/678gRqPC/legion-killfeed-higest-rating-trustpilot.png" alt="Legion Killfeed is rated the best">Legion Killfeed is rated the best</a></td>
   </tr>
   <tr>
     <td><a href="https://discord.gg/LegionKillfeed"><img src="https://killfeed.co/images/misc/LegionCord.png" alt="Discord for Legion Killfeed"></a></td>
@@ -33,7 +33,7 @@
 
 > [!NOTE]
 > Here are some additional DayZ tools and information.  
->  | [`Legion's Privacy & ToS`](https://killfeed.co/legal "Click to open Legion's Website") | [`DayZ Specific File Validator`](https://killfeed.co/tools/file-validator "Click to view the dayz specific file validator") |  [`DayZ Compare Tool`](https://killfeed.co/dayz/compare-files "Click to jump to Dayz Compare Tool") | [`DayZ Wiki & Help`](https://killfeed.co/dayz "Click to go to Legion's website") | [`Code Reducing Tool`](https://killfeed.co/tools/code-reducer) |
+>  | [`Legion's Privacy & ToS`](https://killfeed.co/legal "Click to open Legion's Website") | [`DayZ Specific File Validator`](https://killfeed.co/tools/file-validator "Click to view the dayz specific file validator") |  [`DayZ Compare Tool`](https://killfeed.co/tools/compare-files "Click to jump to Dayz Compare Tool") | [`DayZ Wiki & Help`](https://killfeed.co/dayz "Click to go to Legion's website") | [`Code Reducing Tool`](https://killfeed.co/tools/code-reducer) |
 > |------|------|------|------|------|
 
 ---
