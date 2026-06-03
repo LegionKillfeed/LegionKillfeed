@@ -3,27 +3,27 @@
 <table>
   <tr>
     <td colspan="2">
-      <a href="https://killfeed.co/"><img src="https://killfeed.co/a/i/lkb.png" alt="Legion Killfeed Banner"></a>
+      <a href="https://killfeed.co/">Legion Killfeed Banner<img src="https://killfeed.co/images/favicons/LegionNewHeader.png" alt="Legion Killfeed Banner"></a>
     </td>
   </tr>
   <tr>
     <td><img src="https://killfeed.co/images/favicons/favicon.gif" alt="Legion Killfeed Logo"></td>
-    <td rowspan="6"><a href="https://www.trustpilot.com/review/killfeed.co"><img src="https://i.ibb.co/VYG3WVvg/Legion-Best.png" alt="Legion Killfeed is rated the best"></a></td>
+    <td rowspan="6"><a href="https://www.trustpilot.com/review/killfeed.co">Legion Killfeed is rated the best<img src="https://i.ibb.co/VYG3WVvg/Legion-Best.png" alt="Legion Killfeed is rated the best"></a></td>
   </tr>
   <tr>
-    <td><a href="https://discord.gg/LegionKillfeed"><img src="https://killfeed.co/a/gh/LegionCord.png" alt="Discord for Legion Killfeed"></a></td>
+    <td><a href="https://discord.gg/LegionKillfeed"><img src="https://killfeed.co/images/misc/LegionCord.png" alt="Discord for Legion Killfeed"></a></td>
   </tr>
   <tr>
-    <td><a href="https://ko-fi.com/LegionKillfeed"><img src="https://killfeed.co/a/gh/LegionFi.png" alt="KoFi for Legion Killfeed"></a></td>
+    <td><a href="https://ko-fi.com/LegionKillfeed"><img src="https://killfeed.co/images/misc/LegionFi.png" alt="KoFi for Legion Killfeed"></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.tiktok.com/@legionkillfeed"><img src="https://killfeed.co/a/gh/LegionTok.png" alt="TikTok for Legion Killfeed"></a></td>
+    <td><a href="https://www.tiktok.com/@legionkillfeed"><img src="https://killfeed.co/images/misc/LegionTok.png" alt="TikTok for Legion Killfeed"></a></td>
   </tr>
   <tr>
-    <td><a href="https://youtube.com/@LegionKillfeed"><img src="https://killfeed.co/a/gh/LegionTube.png" alt="YouTube for Legion Killfeed"></a></td>
+    <td><a href="https://youtube.com/@LegionKillfeed"><img src="https://killfeed.co/images/misc/LegionTube.png" alt="YouTube for Legion Killfeed"></a></td>
   </tr>
   <tr>
-    <td><a href="https://PayPal.Me/CoderSoul"><img src="https://killfeed.co/a/gh/LegionPay.png" alt="Donate Via PayPal to Legion Killfeed"></a></td>
+    <td><a href="https://PayPal.Me/CoderSoul"><img src="https://killfeed.co/images/misc/LegionPay.png" alt="Donate Via PayPal to Legion Killfeed"></a></td>
   </tr>
 </table> 
 
@@ -33,7 +33,7 @@
 
 > [!NOTE]
 > Here are some additional DayZ tools and information.  
->  | [`Legion's Privacy & ToS`](https://killfeed.co/legal "Click to open Legion's Website") | [`DayZ Specific File Validator`](https://dayz.modding.click/file-validator "Click to view the dayz specific file validator") |  [`DayZ Compare Tool`](https://killfeed.co/dayz/compare-files "Click to jump to Dayz Compare Tool") | [`DayZ Help`](https://killfeed.co/dayz "Click to go to Legion's website") | [`Code Reducing Tool`](https://modding.click/code-reducer) |
+>  | [`Legion's Privacy & ToS`](https://killfeed.co/legal "Click to open Legion's Website") | [`DayZ Specific File Validator`](https://killfeed.co/tools/file-validator "Click to view the dayz specific file validator") |  [`DayZ Compare Tool`](https://killfeed.co/dayz/compare-files "Click to jump to Dayz Compare Tool") | [`DayZ Wiki & Help`](https://killfeed.co/dayz "Click to go to Legion's website") | [`Code Reducing Tool`](https://killfeed.co/tools/code-reducer) |
 > |------|------|------|------|------|
 
 ---
